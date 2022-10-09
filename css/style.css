@@ -1,0 +1,17 @@
+body {
+  background-color: linen;
+  color: green;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+hr {
+  height: 5px;
+  background-color: grey;
+  border: solid grey;
+}
+
+button:hover {
+  color: red;
+  background-color: yellow;
+}
